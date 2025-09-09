@@ -50,7 +50,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manin1311/Manin1311/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Manin1311/Manin1311/blob/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 ---
