@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manin1311&theme=flat&column=4&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Manin1311&theme=algolia&column=4&no-frame=true" />
 
 </p>
 
