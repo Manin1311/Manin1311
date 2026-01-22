@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manin1311&show_icons=true&theme=gold" />
+<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/examples/trophy.svg" />
 
 </p>
 
