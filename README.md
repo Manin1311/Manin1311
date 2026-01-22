@@ -9,8 +9,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/examples/trophy.svg" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Manin1311&theme=dracula" alt="GitHub Trophies" />
 </p>
 
 
