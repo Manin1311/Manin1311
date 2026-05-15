@@ -50,10 +50,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Manin1311/Manin1311/blob/output/github-contribution-grid-snake.svg" />
 
-</p>
 
 ---
 
