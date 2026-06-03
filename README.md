@@ -8,10 +8,10 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manin1311&theme=dracula" alt="GitHub Trophies" />
-</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manin1311&theme=onedark&row=1&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 
 ---
