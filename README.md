@@ -41,5 +41,3 @@
 
 ⭐ From [Manin1311](https://github.com/Manin1311)
 
-
-ye meri purani read me , ismein se agar tujhe kuch abhi nayi vakli mein data dalna ho toh , phir aage ka dekhte hai
