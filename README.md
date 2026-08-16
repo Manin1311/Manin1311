@@ -1,14 +1,14 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=180&section=header&text=Manin%20Buch&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Python%20%7C%20AI%2FML%20%7C%20Full%20Stack%20%7C%20DSA&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=190&section=header&text=Manin%20Buch&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Python%20%7C%20AI%2FML%20%7C%20Full%20Stack%20%7C%20DSA&descAlignY=62&descSize=18" />
 </p>
 
-<!-- ======================= TYPING ======================= -->
+<!-- ========================= TYPING ANIMATION ========================= -->
 
 <p align="center">
   <a href="https://github.com/Manin1311">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Manin;Python+%7C+AI%2FML+%7C+Full+Stack+Developer;DSA+%7C+Problem+Solving+%7C+Backend+Development;Building+with+AI+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Manin;Python+%7C+AI%2FML+%7C+Full+Stack+Developer;DSA+%7C+Problem+Solving;Exploring+Generative+AI+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,30 +18,32 @@
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
+<!-- ========================= ABOUT ========================= -->
 
 ## 👨‍💻 About Me
 
 <p align="center">
-
-Computer Science Technology student passionate about <b>Python, Artificial Intelligence, Machine Learning, DSA, and Full Stack Development</b>.
-
-I enjoy building practical applications, exploring modern AI technologies, and continuously improving my problem-solving and software development skills.
-
+  Computer Science Technology student passionate about
+  <b>Python, Artificial Intelligence, Machine Learning, DSA, and Full Stack Development</b>.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Python%20%26%20Django-0F766E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-0891B2?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-DSA-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
+  I enjoy building practical applications, exploring modern AI technologies,
+  and continuously improving my problem-solving and software development skills.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0891B2?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-059669?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
+<!-- ========================= TECH STACK ========================= -->
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### 💻 Languages
 
@@ -62,20 +64,20 @@ I enjoy building practical applications, exploring modern AI technologies, and c
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-1E293B?style=for-the-badge&logo=google-gemini&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Gemini%20API-1E293B?style=for-the-badge&logo=googlegemini&logoColor=8B5CF6" />
-  <img src="https://img.shields.io/badge/Groq%20LLM-1E293B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-1E293B?style=for-the-badge&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/NumPy-1E293B?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=google-gemini&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Gemini%20API-111827?style=for-the-badge&logo=google-gemini&logoColor=8B5CF6" />
+  <img src="https://img.shields.io/badge/Groq%20LLM-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-111827?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=013243" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Infrastructure
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,firebase&theme=dark" />
 </p>
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&theme=dark" />
@@ -83,95 +85,104 @@ I enjoy building practical applications, exploring modern AI technologies, and c
 
 ---
 
-<!-- ======================= CURRENT FOCUS ======================= -->
+<!-- ========================= CURRENT FOCUS ========================= -->
 
-## 🚀 Current Focus
+## 🎯 Current Focus
 
 <p align="center">
+  🤖 Generative AI & LLMs
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🐍 Advanced Python
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🧠 Data Structures & Algorithms
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🌐 Full Stack Development
+</p>
 
-🤖 Exploring <b>Generative AI & LLMs</b> &nbsp; • &nbsp;
-🐍 Improving <b>Python</b> &nbsp; • &nbsp;
-🧠 Practicing <b>DSA</b> &nbsp; • &nbsp;
-🌐 Building <b>Full Stack Applications</b>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Learning+new+technologies+every+day+%F0%9F%93%9A;Exploring+AI+and+modern+software+development+%F0%9F%A4%96;Improving+problem-solving+through+DSA+%F0%9F%A7%A0" alt="Current Focus" />
 </p>
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
+<!-- ========================= GITHUB STATS ========================= -->
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manin1311&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manin1311&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Manin1311&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Manin's GitHub Stats"
+  />
+
+<img
+ height="180"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manin1311&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+ alt="Top Languages"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manin1311&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img
+    src="https://streak-stats.vercel.app/?user=Manin1311&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+<!-- ========================= CONTRIBUTION GRAPH ========================= -->
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manin1311&bg_color=0f172a&color=38bdf8&line=60a5fa&point=ffffff&area=true&hide_border=true&custom_title=Manin's%20Contribution%20Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Manin1311&theme=tokyo-night&hide_border=true&area=true&custom_title=Manin%27s%20Contribution%20Graph"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
 
-<!-- ======================= SNAKE ======================= -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manin1311/Manin1311/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<!-- ======================= GITHUB ACTIVITY ======================= -->
-
-## ⚡ GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manin1311&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
-</p>
-
----
-
-<!-- ======================= FUN ZONE ======================= -->
+<!-- ========================= FUN ZONE ========================= -->
 
 ## ✨ Fun Zone
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Random Developer Quote"
+  />
 </p>
 
 ---
 
-<!-- ======================= CONNECT ======================= -->
+<!-- ========================= CONNECT ========================= -->
 
 ## 🤝 Let's Connect
 
 <p align="center">
+
   <a href="https://github.com/Manin1311">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 </p>
+
+---
+
+<!-- ========================= FOOTER ========================= -->
 
 <p align="center">
   <i>“Always learning. Always building. Always improving.”</i>
 </p>
 
-<!-- ======================= FOOTER ======================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=110&section=footer" />
 </p>
