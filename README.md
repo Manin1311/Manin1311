@@ -21,12 +21,7 @@
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manin1311&theme=tokyonight&hide_border=true" />
-</p>
 
----
 
 ## 📈 Contribution Graph
 <p align="center">
