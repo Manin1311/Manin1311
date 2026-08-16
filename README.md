@@ -18,8 +18,6 @@
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
-
 ## 👨‍💻 About Me
 
 <p align="center">
@@ -40,8 +38,6 @@
 </p>
 
 ---
-
-<!-- ========================= TECH STACK ========================= -->
 
 ## 🚀 Tech Stack
 
@@ -85,8 +81,6 @@
 
 ---
 
-<!-- ========================= CURRENT FOCUS ========================= -->
-
 ## 🎯 Current Focus
 
 <p align="center">
@@ -105,24 +99,7 @@
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
-
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Manin1311&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&border_radius=12"
-    alt="Manin's GitHub Stats"
-  />
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manin1311&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
- alt="Top Languages"
-/>
-
-</p>
 
 <p align="center">
   <img
@@ -132,8 +109,6 @@
 </p>
 
 ---
-
-<!-- ========================= CONTRIBUTION GRAPH ========================= -->
 
 ## 📈 Contribution Graph
 
@@ -146,20 +121,16 @@
 
 ---
 
-<!-- ========================= FUN ZONE ========================= -->
-
 ## ✨ Fun Zone
 
 <p align="center">
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Random Developer Quote"
+    alt="Developer Quote"
   />
 </p>
 
 ---
-
-<!-- ========================= CONNECT ========================= -->
 
 ## 🤝 Let's Connect
 
@@ -176,8 +147,6 @@
 </p>
 
 ---
-
-<!-- ========================= FOOTER ========================= -->
 
 <p align="center">
   <i>“Always learning. Always building. Always improving.”</i>
