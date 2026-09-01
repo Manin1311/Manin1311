@@ -110,16 +110,9 @@
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Manin1311&theme=tokyo-night&hide_border=true&area=true&custom_title=Manin%27s%20Contribution%20Graph"
-    alt="GitHub Contribution Graph"
-  />
-</p>
 
----
+
 
 ## ✨ Fun Zone
 
