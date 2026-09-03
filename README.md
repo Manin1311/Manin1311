@@ -44,7 +44,7 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" />
 </p>
 
 ### 🌐 Frontend & Backend
@@ -70,13 +70,13 @@
 ### 🗄️ Databases & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,aws,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
 </p>
 
 ### ⚙️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
