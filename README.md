@@ -11,11 +11,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Manin;Python+%7C+AI%2FML+%7C+Full+Stack+Developer;DSA+%7C+Problem+Solving;Exploring+Generative+AI+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manin1311&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Manin1311" alt="Profile Views">
 </p>
-
 ---
 
 ## 👨‍💻 About Me
